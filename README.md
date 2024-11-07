@@ -25,6 +25,15 @@ This project implements multiclass image segmentation using the U-Net architectu
 - **Customizable Training**: Allows for easy adjustment of hyperparameters and training configurations to suit different use cases.
 
 ## Technologies Used
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Keras](https://img.shields.io/badge/Keras-2.x-red)
+![NumPy](https://img.shields.io/badge/NumPy-1.x-9b59b6)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-1.x-29b6f6)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-0078d4)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-ffca28)
 - **Python**: The primary programming language for implementing the segmentation model.
 - **TensorFlow/Keras**: Deep learning libraries used for building, training, and evaluating the U-Net model.
 - **NumPy**: For numerical operations and data manipulation.
