@@ -1,13 +1,18 @@
 # Sandstone Image Multiclass Segmentation
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![TensorFlow](https://img.shields.io/badge/tensorflow-2.6.0-orange)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-notebook-orange)
-![Status](https://img.shields.io/badge/status-active-success)
-![Contributors](https://img.shields.io/badge/contributors-1-blue)
-![Issues](https://img.shields.io/github/issues/arpsn123/Sandstone_Image_Multiclass-Segmentation)
-![Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/Sandstone_Image_Multiclass-Segmentation)
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/Cytomorph-YOLOv8?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/Cytomorph-YOLOv8?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/Cytomorph-YOLOv8)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/Cytomorph-YOLOv8)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/Cytomorph-YOLOv8)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/Cytomorph-YOLOv8)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/Cytomorph-YOLOv8)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/Cytomorph-YOLOv8)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/Cytomorph-YOLOv8)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/Cytomorph-YOLOv8?style=social)
+![Downloads](https://img.shields.io/github/downloads/arpsn123/Cytomorph-YOLOv8/total)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/arpsn123/Cytomorph-YOLOv8)
+![Maintenance Status](https://img.shields.io/badge/Maintained-Yes-green)
 
 ## Overview
 This project implements multiclass image segmentation using the U-Net architecture, specifically designed for the Sandstone dataset. The goal is to accurately segment different classes within sandstone images to enhance analysis and interpretation. This project is ideal for researchers and practitioners in the field of computer vision and geology, looking to automate the segmentation of geological formations.
